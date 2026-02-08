@@ -58,6 +58,8 @@ Repository:
 https://github.com/BotGuard83/CTF-Labs
 
 GitHub Statistics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight"/>
 Activity Graph
 Current Focus
 
