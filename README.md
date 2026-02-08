@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/Status-Actively%20Training-success">
 </p> 
 
-
-
-
 About Me
 
 Cybersecurity practitioner building real-world offensive and defensive lab environments to simulate attacker behavior and develop detection capability.
@@ -47,7 +44,7 @@ Infrastructure:
 
 • Docker
 • VirtualBox
-• Linux
+• Kubernetes
 • Kali Linux
 
 Cybersecurity Lab Portfolio
@@ -68,14 +65,17 @@ Repository:
 https://github.com/BotGuard83/CTF-Labs
 
 GitHub Statistics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BotGuard83&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight"/>
 </p>
+
 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BotGuard83&theme=tokyo-night"/>
 </p> 
+
 Current Focus
 
 • SOC Analyst skill development
