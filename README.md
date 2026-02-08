@@ -1,6 +1,16 @@
 # README.md
 🛡️ Giuseppe Bottaro | BotGuard83
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&Center=true&width=700lines=Giuseppe+Bottaro+%7C+BotGuard83;SOC=Analyst+in+Training;Blue+Team+Defender;Threat+Detection+Focused;Cybersecurity+Lab+Builder"/>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue">
+<img src="https://img.shields.io/badge/Specialty-Blue%20Team-success">
+<img src="https://img.shields.io/badge/Focus-Threat%20Detection-red">
+<img src="https://img.shields.io/badge/Environment-Linux-black">
+<img src="https://img.shields.io/badge/Labs-Custom%20Built-brightgreen">
+<img src="https://img.shields.io/badge/Status-Actively%20Training-success">
+</p> 
 
 
 
