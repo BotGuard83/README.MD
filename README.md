@@ -21,7 +21,8 @@ Focused on:
 I build vulnerable systems, attack them, analyze compromise, and design defensive detection strategies.
 
 Cybersecurity Tools & Technologies
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github,vscode"/>
 Security Tools:
 
 • Nmap
