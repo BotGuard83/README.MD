@@ -1,110 +1,89 @@
 # README.md
 🛡️ Giuseppe Bottaro | BotGuard83
 
-Cybersecurity Analyst | Blue Team Apprentice | SOC Analyst in Training
 
-👋 About Me
 
-I am a hands-on cybersecurity practitioner focused on threat detection, container security, offensive testing, and defensive monitoring.
 
-I build and attack real lab environments using:
 
-Kali Linux
+About Me
 
-Docker & Kubernetes (K3s)
+Cybersecurity practitioner building real-world offensive and defensive lab environments to simulate attacker behavior and develop detection capability.
 
-Raspberry Pi infrastructure
+Focused on:
 
-Custom vulnerable web applications
+• SOC Operations
+• Threat Detection
+• Incident Response
+• Container Security
+• System Hardening
+• Detection Engineering
 
-Network enumeration and exploitation tools
+I build vulnerable systems, attack them, analyze compromise, and design defensive detection strategies.
 
-My goal is to become a SOC Analyst / Threat Detection Engineer, specializing in detecting and defending against real-world attacks.
+Cybersecurity Tools & Technologies
 
-🔬 Active Cybersecurity Lab Environment
+Security Tools:
+
+• Nmap
+• Hydra
+• Gobuster
+• Wireshark
+• Netdiscover
+• Hashcat
 
 Infrastructure:
 
-Kali Linux attacker VM
+• Docker
+• VirtualBox
+• Linux
+• Kali Linux
 
-Ubuntu & Raspberry Pi targets
+Cybersecurity Lab Portfolio
+CTF-Labs
 
-Docker & Kubernetes (K3s)
-
-Custom vulnerable web services
-
-Isolated pentesting lab network
-
-⚔️ Offensive Security Skills
-
-Network enumeration (Nmap, Netdiscover)
-
-Web exploitation and brute force testing (Hydra)
-
-Container enumeration and escape research
-
-Credential harvesting and authentication attacks
-
-Vulnerability discovery and attack simulation
-
-🛡️ Defensive Security Skills
-
-Log analysis and threat detection
-
-Container security inspection
-
-Attack surface analysis
-
-Incident investigation
-
-Threat hunting in lab environments
-
-📂 Featured Projects
-🔎 K3s Container Enumeration Lab
-
-Demonstrated container compromise and enumeration techniques.
-
-Skills demonstrated:
-
-Container runtime analysis
-
-Kubernetes node inspection
-
-Container security misconfiguration discovery
-
-Repo:
-https://github.com/BotGuard83/CTF-Labs
-
-🕵️ Custom CTF Infrastructure
-
-Built vulnerable web services for exploitation and detection practice.
+Custom-built cybersecurity lab designed to simulate real-world attacks and defensive detection.
 
 Includes:
 
-Login brute force targets
+• Authentication attack simulations
+• Container enumeration labs
+• Brute-force detection scenarios
+• Honeypots
+• Logging and incident analysis
 
-Honeypots
+Repository:
 
-Rate limiting testing
+https://github.com/BotGuard83/CTF-Labs
 
-🧰 Tools I Use
+GitHub Statistics
+Activity Graph
+Current Focus
 
-Kali Linux
-Docker
-Kubernetes (K3s)
-Nmap
-Hydra
-Git
-Linux
-Python
+• SOC Analyst skill development
+• Threat detection engineering
+• Blue Team defensive capability
+• Incident investigation
+• Cybersecurity lab expansion
 
-🎯 Career Objective
+Career Objective
 
-Seeking entry-level SOC Analyst, Threat Detection, or Cybersecurity Analyst roles.
+Seeking SOC Analyst or Blue Team role where I can contribute to threat detection, incident response, and defensive security operations.
 
-Focused on Blue Team defense, threat detection, and incident response.
+Professional Philosophy
 
-📫 Contact
+Understand attacker methodology
+Detect compromise early
+Protect critical infrastructure
+Continuously improve defensive capability
 
-GitHub: https://github.com/BotGuard83
-Location: West Palm Beach, FL
+Contact
+
+GitHub
+https://github.com/BotGuard83
+
+Location
+West Palm Beach, Florida
+
+
+
+
