@@ -63,6 +63,9 @@ GitHub Statistics
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGuard83&layout=compact&theme=tokyonight"/>
 </p>
 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BotGuard83&theme=tokyo-night"/>
+</p> 
 Current Focus
 
 • SOC Analyst skill development
