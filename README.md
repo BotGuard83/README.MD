@@ -34,19 +34,7 @@ This lab allows me to practice real-world defensive security techniques includin
 
 ### Lab Architecture
 
-Control Node  
-Raspberry Pi 5  
-IP: 192.168.1.50  
-
-Worker Node  
-Raspberry Pi cluster node  
-IP: 192.168.1.60  
-
-Future worker nodes will expand the cluster to simulate distributed infrastructure environments.
-
----
-
-### Lab Architecture
+Lab Diagram:
 
 Laptop (Management)
        │
@@ -58,6 +46,17 @@ Worker Node – 192.168.1.60
        │
        ▼
 Future Worker Nodes
+
+Control Node  
+Raspberry Pi 5  
+IP: 192.168.1.50  
+
+Worker Node  
+Raspberry Pi cluster node  
+IP: 192.168.1.60  
+
+Future worker nodes will expand the cluster to simulate distributed infrastructure environments.
+
 
 ### Security Configuration
 
