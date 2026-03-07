@@ -44,6 +44,21 @@ IP: 192.168.1.60
 
 Future worker nodes will expand the cluster to simulate distributed infrastructure environments.
 
+---
+
+### Lab Architecture
+
+Laptop (Management)
+       │
+       ▼
+Control Node – 192.168.1.50
+       │
+       ▼
+Worker Node – 192.168.1.60
+       │
+       ▼
+Future Worker Nodes
+
 ### Security Configuration
 
 The lab currently includes:
