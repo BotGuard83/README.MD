@@ -20,6 +20,46 @@ Focused on becoming a professional SOC Analyst and Threat Hunter.
 
 ---
 
+## 🖥️ Raspberry Pi Cybersecurity Lab
+
+I am currently building a hands-on cybersecurity and infrastructure lab using a Raspberry Pi cluster.
+
+This lab allows me to practice real-world defensive security techniques including:
+
+- Linux system administration
+- Secure remote access configuration
+- Network monitoring
+- Infrastructure hardening
+- Attack simulation and log analysis
+
+### Lab Architecture
+
+Control Node  
+Raspberry Pi 5  
+IP: 192.168.1.50  
+
+Worker Node  
+Raspberry Pi cluster node  
+IP: 192.168.1.60  
+
+Future worker nodes will expand the cluster to simulate distributed infrastructure environments.
+
+### Security Configuration
+
+The lab currently includes:
+
+- Hardened SSH configuration
+- SSH key authentication
+- Custom SSH port configuration
+- Structured node access via SSH host shortcuts
+- Cluster node management
+
+### Purpose of the Lab
+
+This environment allows me to simulate real-world infrastructure and security scenarios in a controlled environment while developing practical cybersecurity skills.
+
+---
+
 # ⚔️ Core Skills
 
 • Threat Detection & Log Analysis  
